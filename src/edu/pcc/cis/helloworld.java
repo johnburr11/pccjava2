@@ -1,12 +1,9 @@
 package edu.pcc.cis;
 
 public class helloworld {
-    public void helloworld() {
+    public static void main(String[] args) {
         System.out.println("Hello World");
-
-
-        }
-
+    }
     }
 
 
